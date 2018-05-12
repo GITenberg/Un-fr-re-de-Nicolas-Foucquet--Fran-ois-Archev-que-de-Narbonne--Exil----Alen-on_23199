@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25746'
     url: http://www.gutenberg.org/2009/agents/25746
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23199#Un-fr-re-de-Nicolas-Foucquet--Fran-ois-Archev-que-de-Narbonne--Exil----Alen-on
 gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
 gutenberg_issued: '2007-10-26'
 gutenberg_type: Text
