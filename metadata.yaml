@@ -1,0 +1,33 @@
+_repo: Un-fr-re-de-Nicolas-Foucquet--Fran-ois-Archev-que-de-Narbonne--Exil----Alen-on_23199
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duval, Louis François Marin
+    alias: Duval, Louis Francois Marin
+    birthdate: 1840
+    deathdate: 1917
+    gutenberg_agent_id: '25746'
+    url: http://www.gutenberg.org/2009/agents/25746
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23199'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bishops -- France -- Narbonne -- Biography'
+- !lcsh 'France -- History -- Louis XIV, 1643-1715'
+- !lcsh 'Church and state -- France -- History -- 17th century'
+- !lcsh 'Exiles -- France -- Alençon -- Biography'
+- !lcc 'DC'
+- !lcsh 'Fouquet, Nicolas, 1615-1680'
+- !lcsh 'Fouquet, François'
+title: 'Un frère de Nicolas Foucquet: François, Archevêque de Narbonne; Exilé à Alençon'
+url: http://www.gutenberg.org/ebooks/23199
